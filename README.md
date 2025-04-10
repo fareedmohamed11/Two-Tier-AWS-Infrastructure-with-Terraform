@@ -25,13 +25,15 @@ It follows a modular and security-enhanced approach to create a **scalable**, **
 
 ## 🚀 Getting Started
 
-### 🔗 **1 Clone the Repository**
-
-```bash
+### 🔗 **1 Clone the Repository** 
 git clone https://github.com/NotHarshhaa/DevOps-Projects
 cd DevOps-Projects/DevOps-Project-11/
----
-### 🧱 2 Initialize and Apply Terraform
+
+### 🧱 **2 Initialize and Apply Terraform**
+
+
+
+
 
 
 
