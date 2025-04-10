@@ -27,18 +27,19 @@ It follows a modular and security-enhanced approach to create a **scalable**, **
 
 ---
 
-### 🟦 1. Clone the Repository
+## 🚀 Getting Started
 
 ```bash
+# 🟦 1. Clone the Repository
 git clone https://github.com/NotHarshhaa/DevOps-Projects
 cd DevOps-Projects/DevOps-Project-11/
 
-### 🟦 2. Initialize and Apply Terraform
+# 🟦 2. Initialize and Apply Terraform
 terraform init
 terraform plan -var-file=variables.tfvars
 terraform apply -var-file=variables.tfvars --auto-approve
 
-### 🟦 3. Cleanup (Destroy Infrastructure)
+# 🟦 3. Cleanup (Destroy Infrastructure)
 terraform destroy -var-file=variables.tfvars --auto-approve
 
 
