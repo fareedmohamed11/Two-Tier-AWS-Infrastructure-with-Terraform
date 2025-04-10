@@ -21,25 +21,21 @@ It follows a modular and security-enhanced approach to create a **scalable**, **
  ## 📖 Step-by-Step Guide
  📌 Read the full tutorial with screenshots:
  https://blog.prodevopsguy.xyz/deploy-two-tier-architecture-on-aws-using-terraform 
-## 🚀 Getting Started
-
-## 🚀 Getting Started
-
 ---
 
 ## 🚀 Getting Started
 
 ```bash
-# 🟦 1. Clone the Repository
+### 🟦 1. Clone the Repository
 git clone https://github.com/NotHarshhaa/DevOps-Projects
 cd DevOps-Projects/DevOps-Project-11/
 
-# 🟦 2. Initialize and Apply Terraform
+### 🟦 2. Initialize and Apply Terraform
 terraform init
 terraform plan -var-file=variables.tfvars
 terraform apply -var-file=variables.tfvars --auto-approve
 
-# 🟦 3. Cleanup (Destroy Infrastructure)
+### 🟦 3. Cleanup (Destroy Infrastructure)
 terraform destroy -var-file=variables.tfvars --auto-approve
 
 
