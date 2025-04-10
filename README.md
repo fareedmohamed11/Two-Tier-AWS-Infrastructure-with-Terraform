@@ -26,8 +26,8 @@ It follows a modular and security-enhanced approach to create a **scalable**, **
 ## 🚀 Getting Started
 
 ### 🔗 **1 Clone the Repository** 
-https://github.com/fareedmohamed11 
-cd DevOps-Projects/DevOps-Project-11/
+ https://github.com/fareedmohamed11
+ cd DevOps-Projects/DevOps-Project-11/
 
 ### 🧱 **2 Initialize and Apply Terraform**
 terraform init
