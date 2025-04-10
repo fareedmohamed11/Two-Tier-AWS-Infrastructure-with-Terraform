@@ -30,6 +30,14 @@ git clone https://github.com/NotHarshhaa/DevOps-Projects
 cd DevOps-Projects/DevOps-Project-11/
 
 ### 🧱 **2 Initialize and Apply Terraform**
+terraform init
+terraform plan -var-file=variables.tfvars
+terraform apply -var-file=variables.tfvars --auto-approve
+
+### 🧹 **3 Cleanup (Destroy Infrastructure**
+terraform destroy -var-file=variables.tfvars --auto-approve
+
+
 
 
 
