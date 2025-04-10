@@ -37,7 +37,26 @@ terraform apply -var-file=variables.tfvars --auto-approve
 ### 🧹 **3 Cleanup (Destroy Infrastructure**
 terraform destroy -var-file=variables.tfvars --auto-approve
 
+# Project Architecture Highlights
 
+## Networking & Security
+- **VPC & Subnets**: Isolated environment for your application.
+- **IAM & Role-Based Access Control**: Fine-grained security permissions.
+- **AWS WAF**: Protect against common web threats.
+
+## Compute & Scaling
+- **Auto Scaling Group**: Dynamic scaling based on demand.
+- **Elastic Load Balancer (ALB)**: Efficient traffic distribution.
+- **EC2 Instances**: Reliable compute capacity.
+
+## Storage & Database
+- **Amazon RDS**: Managed database for scalability and reliability.
+- **S3 Buckets**: Secure storage for application assets.
+
+## Networking & Optimization
+- **Amazon Route 53**: Scalable domain name system (DNS).
+- **Amazon CloudFront (CDN)**: Faster content delivery worldwide.
+- **SSL/TLS Encryption**: Secure communication with ACM.
 
 
 
