@@ -4,4 +4,13 @@
 
 #
 📌 Overview
+This project demonstrates a Two-Tier architecture on AWS using Terraform for Infrastructure as Code (IaC). It follows a modular and security-enhanced approach to create a scalable, secure, and maintainable infrastructure.
 
+### ✅ Key Features
+Modular Architecture – Reusable Terraform modules for better management
+Infrastructure as Code (IaC) – Automate AWS resource provisioning
+Security Best Practices – IAM roles, policies, and WAF integration
+Scalability & High Availability – Auto Scaling, Load Balancing, and Route 53
+Database Integration – Managed Amazon RDS deployment
+SSL & CDN Optimization – Secure connections and content acceleration
+ 
