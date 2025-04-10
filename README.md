@@ -18,4 +18,7 @@ It follows a modular and security-enhanced approach to create a **scalable**, **
 - **Database Integration** – Managed Amazon RDS deployment
 - **SSL & CDN Optimization** – Secure connections and content acceleration
 
- 
+ ## 📖 Step-by-Step Guide
+ 📌 Read the full tutorial with screenshots:
+ https://blog.prodevopsguy.xyz/deploy-two-tier-architecture-on-aws-using-terraform 
+
